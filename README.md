@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Allan Veras. I am a researcher in Bioinformatics, where I develop software and analyze omics data. I carry out my research at the Federal University of Pará, where I am a professor.
+My name is Allan Veras, and I am a professor at the Faculty of Computing (FACOMP) at the Federal University of Pará. My research in Bioinformatics focuses on developing software and analyzing omics data.
 
 <!--
 **allanverasce/allanverasce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

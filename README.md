@@ -2,8 +2,10 @@
 
 My name is Allan Veras, and I am a professor at the Faculty of Computing (FACOMP) at the Federal University of Pará. My research in Bioinformatics focuses on developing software and analyzing omics data.
 
-![image](https://github.com/allanverasce/allanverasce/assets/25986290/33d4bb04-ecbd-4a8e-8b1c-bdd5d89d14a3) ![image](https://github.com/allanverasce/allanverasce/assets/25986290/2d42a2fc-ddf0-46db-a2d5-0a2a9c04ff5c) <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black">
-![image](https://github.com/allanverasce/allanverasce/assets/25986290/fa13cbe4-6b29-438e-8236-8aef4c8af452)
+![image](https://github.com/allanverasce/allanverasce/assets/25986290/b7b4cc53-693f-4321-a3fe-9ce259f2a009) ![image](https://github.com/allanverasce/allanverasce/assets/25986290/e9eef5db-3d9e-419d-bc31-c29c16076146) ![image](https://github.com/allanverasce/allanverasce/assets/25986290/5b9970c0-2ba7-49fa-be2c-72975710f9a7) ![image](https://github.com/allanverasce/allanverasce/assets/25986290/3f178481-786d-4e6f-b46f-7e10732e9ca8)
+
+
+
 
 
 

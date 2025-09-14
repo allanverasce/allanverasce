@@ -1,7 +1,7 @@
 # Professor & Researcher in Bioinformatics
 Federal University of Pará  
 
-## About me*
+## About me
 
 I am an adjunct professor at the Faculty of Computing (UFPA) and an advisor in the graduate programs in Genetics and Molecular Biology (PPGBM/UFPA) and Applied Computing (PPCA/UFPA). My research focuses on bioinformatics, working in software development, omics data analysis, and genome assembly. I coordinate the Bioinformatics area at the Biological Engineering Laboratory (EngBio/UFPA).
 

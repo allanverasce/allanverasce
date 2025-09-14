@@ -1,11 +1,17 @@
-### 
-👋 My name is **Allan Veras**, and I am a professor at the Faculty of Computing (FACOMP) at the Federal University of Pará (UFPA). I'm an advisor in the Postgraduate Program in Genetics and Molecular Biology (PPGBM/UFPA).
+# Professor & Researcher in Bioinformatics
+Federal University of Pará  
 
-🔬 My research in Bioinformatics focuses on the development of software tools and the analysis of omics data. I conduct my research at the Biological Engineering Laboratory (EngBio/UFPA), where we integrate computing and life sciences to address complex biological questions.
+## About me*
+
+I am an adjunct professor at the Faculty of Computing (UFPA) and an advisor in the graduate programs in Genetics and Molecular Biology (PPGBM/UFPA) and Applied Computing (PPCA/UFPA). My research focuses on bioinformatics, working in software development, omics data analysis, and genome assembly. I coordinate the Bioinformatics area at the Biological Engineering Laboratory (EngBio/UFPA).
+
+My research in Bioinformatics focuses on the development of software tools and the analysis of omics data. I conduct my research at the Biological Engineering Laboratory (EngBio/UFPA), where we integrate computing and life sciences to address complex biological questions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allanveras) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/allanverasce)
+[ORCID]((https://orcid.org/0000-0002-7227-0590) · [Google Scholar](https://scholar.google.com.br/citations?user=g5BHox0AAAAJ&hl=pt-BR) 
+
 
 
 

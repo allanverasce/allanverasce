@@ -10,7 +10,7 @@ My research in Bioinformatics focuses on the development of software tools and t
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allanveras) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/allanverasce)
-[ORCID]((https://orcid.org/0000-0002-7227-0590) · [Google Scholar](https://scholar.google.com.br/citations?user=g5BHox0AAAAJ&hl=pt-BR) 
+[ORCID](https://orcid.org/0000-0002-7227-0590) · [Google Scholar](https://scholar.google.com.br/citations?user=g5BHox0AAAAJ&hl=pt-BR) 
 
 
 

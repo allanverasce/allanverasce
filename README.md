@@ -8,6 +8,7 @@ I am an adjunct professor at the Faculty of Computing (UFPA) and an advisor in t
 ## Contact
 - E-mail: 📫 allanveras@ufpa.br
 
+![](https://komarev.com/ghpvc/?username=allanverasce)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allanveras) 

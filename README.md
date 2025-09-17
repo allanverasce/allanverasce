@@ -3,7 +3,7 @@
 
 ## About me
 
-I am an adjunct professor at the Faculty of Computing (UFPA) and an advisor in the graduate programs in Genetics and Molecular Biology (PPGBM/UFPA). My research focuses on bioinformatics, working in software development, omics data analysis, and genome assembly. I coordinate the Bioinformatics area at the Biological Engineering Laboratory (EngBio/UFPA).
+I am an adjunct professor at the Faculty of Computing (UFPA) and an advisor in the postgraduate programs in Genetics and Molecular Biology (PPGBM/UFPA). My research focuses on bioinformatics, working in software development, omics data analysis, and genome assembly. I coordinate the Bioinformatics area at the Biological Engineering Laboratory (EngBio/UFPA).
 
 ## Contact
 - E-mail: 📫 allanveras@ufpa.br

@@ -27,11 +27,3 @@ I am an adjunct professor at the Faculty of Computing (UFPA) and an advisor in t
 
 ![](https://komarev.com/ghpvc/?username=allanverasce&label=PROFILE+VIEWS)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanverasce&layout=compact)](https://github.com/allanverasce/github-readme-stats)
-<!--
-**allanverasce/allanverasce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-

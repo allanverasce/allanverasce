@@ -1,9 +1,13 @@
-# Professor & Researcher in Bioinformatics
-## Federal University of Pará  
+# Allan Veras 
+**Bioinformatics | Computational Biology | Scientific Software** 
 
-## About me
+![UFPA](https://img.shields.io/badge/UFPA-Federal_University_of_Pará-0055A4)
+![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Java](https://img.shields.io/badge/Java-Scientific_Software-red)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-Genomics-orange)
+![Open Source](https://img.shields.io/badge/Open_Source-Science-success)
 
-I am an adjunct professor at the Faculty of Computing (UFPA) and an advisor in the postgraduate programs in Genetics and Molecular Biology (PPGBM/UFPA). My research focuses on bioinformatics, working in software development, omics data analysis, and genome assembly. I coordinate the Bioinformatics area at the Biological Engineering Laboratory (EngBio/UFPA).
 
 ## Contact
 - E-mail: 📫 allanveras@ufpa.br

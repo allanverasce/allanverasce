@@ -46,7 +46,7 @@ All projects follow **open science**, **reproducibility**, and **accessibility**
 
 ## 🧪 Scientific Philosophy
 
-> **Good science needs good software — and intelligent algorithms.**
+> **Good science needs good software and intelligent algorithms.**
 
 My mission is to bridge **biology, artificial intelligence, and software engineering** to create tools that are:
 - Scientifically rigorous  

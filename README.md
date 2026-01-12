@@ -37,7 +37,7 @@ My research lies at the intersection of **bioinformatics, genomics, artificial i
 I develop tools that transform complex biological data into **actionable biological insight**:
 
 - **GeneEssenceGUI** – AI-based essential gene classification  
-- **PredictModelGUI** – Machine learning models for genomic datasets  
+- **BioPipelineCreator** – Software for creating customized pipelines 
 - **EngBio Platform** – Web-based research and laboratory infrastructure  
 
 All projects follow **open science**, **reproducibility**, and **accessibility** principles.

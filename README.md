@@ -8,9 +8,82 @@
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-Genomics-orange)
 ![Open Source](https://img.shields.io/badge/Open_Source-Science-success)
 
+---
 
-## Contact
-- E-mail: 📫 allanveras@ufpa.br
+## 🧬 About Me
+
+I am an **Adjunct Professor at the Faculty of Computing (UFPA)** and an **advisor in the Graduate Program in Genetics and Molecular Biology (PPGBM/UFPA)**.  
+I also coordinate the **Bioinformatics Unit at the Biological Engineering Laboratory (EngBio/UFPA)**.
+
+My research lies at the intersection of **bioinformatics, genomics, artificial intelligence, and scientific software development**, with a strong focus on **omics data analysis, genome assembly, and machine learning–based biological modeling**.
+
+---
+
+## 🔬 Research Interests
+
+- Genome assembly and annotation  
+- Essential gene prediction
+- Pangenomics  
+- Artificial intelligence for biological data  
+- Machine learning for genomics  
+- Metagenomics and metatranscriptomics  
+- Omics data integration  
+- Scientific software and reproducible pipelines  
+
+---
+
+## 🛠️ Open-Source Projects
+
+I develop tools that transform complex biological data into **actionable biological insight**:
+
+- **GeneEssenceGUI** – AI-based essential gene classification  
+- **PredictModelGUI** – Machine learning models for genomic datasets  
+- **EngBio Platform** – Web-based research and laboratory infrastructure  
+
+All projects follow **open science**, **reproducibility**, and **accessibility** principles.
+
+---
+
+## 🧪 Scientific Philosophy
+
+> **Good science needs good software — and intelligent algorithms.**
+
+My mission is to bridge **biology, artificial intelligence, and software engineering** to create tools that are:
+- Scientifically rigorous  
+- Reproducible  
+- User-friendly  
+- Fully open-source  
+
+---
+
+## 🧑‍🎓 Academic Roles
+
+- Adjunct Professor — Faculty of Computing, UFPA  
+- Advisor — Graduate Program in Genetics and Molecular Biology (PPGBM/UFPA)  
+- Coordinator — Bioinformatics Unit, EngBio Laboratory  
+
+---
+
+## 🌍 Open Science & Collaboration
+
+I strongly support:
+- Open science  
+- Reproducible research  
+- Transparent and interpretable AI  
+- Public datasets and open-source code  
+
+Contributions, issues, and collaborations are always welcome.
+
+---
+
+## 📫 Contact & Affiliation
+
+📍 Federal University of Pará (UFPA), Brazil  
+🔬 Biological Engineering Laboratory (EngBio)  
+
+---
+
+⭐ *If you use any of my tools in your research, please consider citing the associated publications.*
 
 
 ## 🌐 Socials:

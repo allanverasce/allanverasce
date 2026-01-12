@@ -38,7 +38,8 @@ I develop tools that transform complex biological data into **actionable biologi
 
 - **GeneEssenceGUI** – AI-based essential gene classification  
 - **BioPipelineCreator** – Software for creating customized pipelines 
-- **EngBio Platform** – Web-based research and laboratory infrastructure  
+- **EngBio Platform** – Web-based research and laboratory infrastructure
+- **ContigPolishing** – A User-Friendly Java GUI for Contig Extension and Refinement. 
 
 All projects follow **open science**, **reproducibility**, and **accessibility** principles.
 
